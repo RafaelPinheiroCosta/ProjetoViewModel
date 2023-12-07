@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto ViewModel</string>
+    <string name="projeto_viewmodel">Projeto ViewModel</string>
+    <string name="aperte">Aperte</string>
+    <string name="teste_viewmodell">Teste troca informações</string>
+    <string name="click">Click</string>
+</resources>
